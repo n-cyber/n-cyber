@@ -4,7 +4,7 @@
 - Pursuing MS, Engineering Management at California State University, Northridge
   - Data Analytics Research Assistant
   - Data Analytics Teaching Assistant
-- Integrating business acumen to address stakeholder inquiries and leveraging technical expertise to devise effective solutions to challenges.
+- Proficient at integrating business acumen to address stakeholder inquiries and leveraging technical expertise to devise effective solutions to challenges.
 - Writing SQL queries and building visualisations.
 - Positions of responsibility
   - Vice President, CSUN Girls Who Code
